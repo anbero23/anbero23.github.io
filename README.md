@@ -1,4 +1,4 @@
-# Financial Data Analyst
+# Financial Data Expert
 
 ### Education
 
