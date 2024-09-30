@@ -18,24 +18,29 @@ Lima, Peru 2018
 
 ### Professional Experience
 
+•	Papo Management LLC – Financial Consulting Firm
+
+##### Senior Financial Analyst - Part time
+##### San Francisco, CA (Sep. 2024 - Present)
+
 •	Wenco (Dominant plastic solutions entity in CL, PE, CO, BO; 32 facilities; revenues $200 MM)	
 
 ##### Senior Director of Finance and Administration (Oversaw operations in Accounting, Treasury, Credit and Collections, Foreign Trade, Local Purchases and Management Control)
-##### Lima, Peru 2022-2023
+##### Lima, Peru (Jan. 2022 - Aug. 2023)
 
 - Implemented application systems in the areas of purchases, accounting, and treasury, reducing operation times by 60% and allowing better analysis and traceability of operations.
 -	Planned short and medium-term strategies to ensure liquidity across all group company activities, achieving 100% covenant compliance.
 -	Documented processes and functions across departments, standardizing operations, reducing errors by 30%, enhancing financial reporting, and boosting efficiency by 25%.
 
 ##### Director of Financial Planning & Analysis
-##### Lima, Peru 2021
+##### Lima, Peru (Jan. 2021 - Dec. 2021)
 
 -	Standardized the Purchase Order process across the corporation, which markedly reduced response times, achieving a 70% improvement in efficiency.
 -	Implemented inventory KPIs, uncovering a $600K discrepancy, leading to substantial improvements in inventory management accuracy. 
 -	Led a digital transformation initiative in the finance department, automating over 40% of routine tasks and reallocating staff to focus on strategic analysis and decision support.
 
 ##### Financial Data Analyst
-##### Lima, Peru 2018-2020
+##### Lima, Peru (Nov. 2018 - Dec. 2020)
 
 -	Optimized the process for generating financial statements by business unit, automating the procedure with SQL, resulting in a 67% reduction in processing time and facilitating timely decision-making.
 -	Developed and employed advanced predictive analytics models, enabling more precise financial planning and resource allocation, achieving a 20% improvement in budget forecasting accuracy.
@@ -44,7 +49,7 @@ Lima, Peru 2018
 •	AC Capitales SAFI (Manager of investment funds in infrastructure and real state)
 
 ##### Investment Management intern
-##### Lima, Peru 2017
+##### Lima, Peru (Jan. 2017 - Dec. 2017)
 
 -	Streamlined the data compilation and analysis process, which saved approximately 10 hours per week, achieving a 30% reduction in report preparation time for committee meetings.
 -	Automated data collection and analysis, enabling quicker and more accurate investment evaluations, facilitating a 15% improvement in the due diligence process efficiency.
