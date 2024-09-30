@@ -21,7 +21,8 @@ Lima, Peru 2018
 •	Wenco (Dominant plastic solutions entity in CL, PE, CO, BO; 32 facilities; revenues $200 MM)	
 
 ##### Senior Director of Finance and Administration (Oversaw operations in Accounting, Treasury, Credit and Collections, Foreign Trade, Local Purchases and Management Control)
-Lima, Peru 2022-2023
+##### Lima, Peru 2022-2023
+
 - Implemented application systems in the areas of purchases, accounting, and treasury, reducing operation times by 60% and allowing better analysis and traceability of operations.
 -	Planned short and medium-term strategies to ensure liquidity across all group company activities, achieving 100% covenant compliance.
 -	Documented processes and functions across departments, standardizing operations, reducing errors by 30%, enhancing financial reporting, and boosting efficiency by 25%.
