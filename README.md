@@ -4,17 +4,17 @@ Results-driven financial and data analytics professional with 5+ years of experi
 
 ### Education
 
-- Hult International Business School
+•	Hult International Business School
 Master of Business Administration (MBA)
 San Francisco, CA 2024
 
-•	GPA 3.74. Dean’s List. Women in Business Scholarship and Social Impact Award. Member of Culture & Diversity Club.
+-	GPA 3.74. Dean’s List. Women in Business Scholarship and Social Impact Award. Member of Culture & Diversity Club.
 
-- Pontificia Universidad Catolica del Peru	
+•	Pontificia Universidad Catolica del Peru	
 Industrial Engineering, BS
 Lima, Peru 2018
 
-•	Ranked top 4% graduating with highest distinction. Teaching Assistant for 4 courses for 5 years. Minored in Business Intelligence
+-	Ranked top 4% graduating with highest distinction. Teaching Assistant for 4 courses for 5 years. Minored in Business Intelligence
 
 ### Professional Experience
 
