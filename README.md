@@ -27,14 +27,14 @@ Lima, Peru 2022-2023
 -	Documented processes and functions across departments, standardizing operations, reducing errors by 30%, enhancing financial reporting, and boosting efficiency by 25%.
 
 ##### Director of Financial Planning & Analysis
-Lima, Peru 2021
+##### Lima, Peru 2021
 
 -	Standardized the Purchase Order process across the corporation, which markedly reduced response times, achieving a 70% improvement in efficiency.
 -	Implemented inventory KPIs, uncovering a $600K discrepancy, leading to substantial improvements in inventory management accuracy. 
 -	Led a digital transformation initiative in the finance department, automating over 40% of routine tasks and reallocating staff to focus on strategic analysis and decision support.
 
 ##### Financial Data Analyst
-Lima, Peru 2018-2020
+##### Lima, Peru 2018-2020
 
 -	Optimized the process for generating financial statements by business unit, automating the procedure with SQL, resulting in a 67% reduction in processing time and facilitating timely decision-making.
 -	Developed and employed advanced predictive analytics models, enabling more precise financial planning and resource allocation, achieving a 20% improvement in budget forecasting accuracy.
@@ -43,7 +43,7 @@ Lima, Peru 2018-2020
 •	AC Capitales SAFI (Manager of investment funds in infrastructure and real state)
 
 ##### Investment Management intern
-Lima, Peru 2017
+##### Lima, Peru 2017
 
 -	Streamlined the data compilation and analysis process, which saved approximately 10 hours per week, achieving a 30% reduction in report preparation time for committee meetings.
 -	Automated data collection and analysis, enabling quicker and more accurate investment evaluations, facilitating a 15% improvement in the due diligence process efficiency.
